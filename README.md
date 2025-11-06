@@ -3,7 +3,7 @@
 ## OrionX Applications
 
 ### ◉ OrionX Ring - Android
-Download the "OrionX_v1_3.apk" file.
+Download the "OrionX_v1_4.apk" file.
 
 ### ◉ OrionX Ring - iOS
 
